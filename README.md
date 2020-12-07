@@ -2,7 +2,7 @@
 
 A monitoring and troubleshooting app for serverless architectures. Cloudash is a desktop app that allows you quickly access logs and metrics of your Lambda functions (and other services soon!). Think of it as a desktop app for AWS, tailored for the serverless use case.
 
-## [Download v0.1](https://github.com/cloudashdev/app/releases/download/0.1.0/Cloudash-0.1.0-mac.zip)
+## [Download v0.1](https://github.com/cloudashdev/cloudash/releases/download/0.1.0/Cloudash-0.1.0-mac.zip)
 
 _The current version (0.1) is free and will work for the next 3 months. Version 1.0 and above will probably be paid._
 
