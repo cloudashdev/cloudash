@@ -6,7 +6,7 @@ A monitoring and troubleshooting app for serverless architectures. Cloudash is a
 
 _The current version (0.1) is free and will work for the next 3 months. Version 1.0 and above will probably be paid._
 
-_Cloudash use AWS SDK to get metrics data. Be warned that [AWS changes for those API calls.](https://aws.amazon.com/cloudwatch/pricing/)_
+_Cloudash use AWS SDK to get metrics data. Be warned that [AWS charges for those API calls.](https://aws.amazon.com/cloudwatch/pricing/)_
 
 ![Cloudash - overview screen](./images/overview.jpg)
 
